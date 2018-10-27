@@ -19,7 +19,6 @@ int sortt(int nn, int mm, int **aa)
 					aa[i][h] = p;
 				}
 			}
-			
 		}
 	};
 	std::cout << "Poluch:\n";
