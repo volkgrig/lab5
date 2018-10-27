@@ -27,6 +27,7 @@ int sortt(int nn, int mm, int **aa)
 	{
 		for (int j = 0; j < mm; j++)
 		{
+			
 			std::cout << aa[i][j] << " ";
 		}
 		std::cout << "\n";
